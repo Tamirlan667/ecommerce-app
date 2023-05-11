@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Tamirlan667/ecommerce-yt/models"
+	"github.com/Tamirlan667/ecommerce-app/models"
 
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/bson"
